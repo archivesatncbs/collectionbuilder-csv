@@ -1,15 +1,15 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,DCTERMS.coverage,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-language,Language,,,DCTERMS.language,
-rightsstatement,,,,DCTERMS.rights,license
+artist_creator_collector,Creator,,,DCTERMS.creator,creator
+date,Date,,,DCTERMS.date,dateCreated
+topics,Topics,true,,DCTERMS.subject,keywords
+geography,Geography,,,DCTERMS.coverage,contentLocation
+object_type,Object Type,,,,
+age_group,Age Group,,,,
+community_descriptions,Community Descriptions,,,,
+current_location,Current Location,,,,
+archives_uri,Archives URI,,,,
+archives_iiif_manifest,Archives IIIF Manifest,,,,
+archives_conditions_governing_use,Archives Condition Governing Use,,,,
+archives_conditions_governing_access,Archives Condition Governing Access,,,,
+archives_takedown_notice, Archives Takedown Notice,,,,
