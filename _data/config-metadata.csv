@@ -1,15 +1,18 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-artist_creator_collector,Creator,,,DCTERMS.creator,creator
-date,Date,,,DCTERMS.date,dateCreated
+artist_creator_collector,Creator/Collector,,,DCTERMS.creator,creator
+date_range,Date Range,,,DCTERMS.date,dateCreated
 topics,Topics,true,,DCTERMS.subject,keywords
 geography,Geography,,,DCTERMS.coverage,contentLocation
 object_type,Object Type,,,,
 age_group,Age Group,,,,
+inscription,Inscription,,,,
+archival_description,Archival Description,,,,
 community_descriptions,Community Descriptions,,,,
 current_location,Current Location,,,,
-archives_uri,Archives URI,,,,
-archives_iiif_manifest,Archives IIIF Manifest,,,,
-archives_conditions_governing_use,Archives Condition Governing Use,,,,
+archives_identifier,Archives Identifier
+archives_uri,Archives URI,,true,,
+archives_iiif_manifest,Archives IIIF Manifest,,true,,
 archives_conditions_governing_access,Archives Condition Governing Access,,,,
-archives_takedown_notice, Archives Takedown Notice,,,,
+archives_conditions_governing_use,Archives Condition Governing Use,,true,,
+archives_takedown_notice, Archives Takedown Notice,,true,,

@@ -18,16 +18,15 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder CSV
+title: Vinays Metadata 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
-# description appears in meta tags and other locations
+tagline: Curated collection from Leslie Coleman Papers
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Curated collection from Leslie Coleman Papers"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: archives; history; mysore; forests; Western Ghats; soligar
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Archives at NCBS
 
 ##########
 # COLLECTION SETTINGS
@@ -51,10 +50,10 @@ metadata-csv: cb-soligar
 #
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
+organization-name: "Archives at NCBS"
+organization-link: https://archives.ncbs.res.in/
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: https://www.lib.uidaho.edu/collectionbuilder/cdil-black.png
+organization-logo-banner: https://collections.archives.ncbs.res.in/server/api/core/bitstreams/ea155c9e-e4ba-40f8-a3c6-09af36af9002/content
 organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
 
 ##########
