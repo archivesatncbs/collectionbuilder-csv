@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: 
+url: meta.archivers.link
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
@@ -51,10 +51,10 @@ metadata-csv: cb-soligar
 # Enter name and link for your organization (replacing the name and links below)
 # These values will be used in attribution and data 
 organization-name: "Archives at NCBS"
-organization-link: https://archives.ncbs.res.in/
+organization-link: https://archives.ncbs.res.in
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
 organization-logo-banner: https://collections.archives.ncbs.res.in/server/api/core/bitstreams/ea155c9e-e4ba-40f8-a3c6-09af36af9002/content
-organization-logo-nav: https://www.lib.uidaho.edu/collectionbuilder/cdil-white.png
+organization-logo-nav: https://collections.archives.ncbs.res.in/server/api/core/bitstreams/ea155c9e-e4ba-40f8-a3c6-09af36af9002/content
 
 ##########
 # ROBOTS EXCLUDE
